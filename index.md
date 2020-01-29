@@ -4,4 +4,4 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Leetcode solutions python3. Web template by [fast.ai](https://www.fast.ai/2020/01/16/fast_template/). 
